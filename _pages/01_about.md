@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<hr>ABOUT</hr>
-<h2>MEng Computer Game Developer</h2>
+<h3>MEng Computer Game Developer</h3>
 
 From 2010-2015 I undertook a Masters Degree in Computer Games Development at Queen's University Belfast and graduated with first-class honours.
 
