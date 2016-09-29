@@ -75,11 +75,16 @@ address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
 
+
 # Build settings
-sass:
-  sass_dir: _sass
-include: ['_pages']
-kramdown:
-  input: GFM
 markdown: kramdown
-theme: minima
+permalink: pretty
+
+# Build settings
+#sass:
+#  sass_dir: _sass
+#include: ['_pages']
+#kramdown:
+#  input: GFM
+#markdown: kramdown
+#theme: minima
