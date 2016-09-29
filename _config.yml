@@ -17,8 +17,8 @@ title: Mark Storey
 email: mstorey02@qub.ac.uk
 description: >
   A portfolio website
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://storeyxiv.github.io/" # the base hostname & protocol for your site
+baseurl: "/markstorey" # the subpath of your site, e.g. /blog
+url: "http://markstorey.git.io" # the base hostname & protocol for your site
 twitter_username: storeyxiv
 github_username:  storeyxiv
 
