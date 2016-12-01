@@ -35,7 +35,7 @@ twitter: storeyxiv
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+ linkedin: storeyxiv
 #youtube: myyoutube
 #spotify: myspotify
 github: storeyxiv
@@ -45,7 +45,6 @@ github: storeyxiv
 #medium: medium
 #vimeo: myvimeo
 email: mstorey02@qub.ac.uk
-steam: storey_xiv
 
 authors:
     johndoe:
@@ -70,12 +69,12 @@ width: normal
 # paginate: 5
 # paginate_path: "blog/:num/"
 
-# if you don't need projects, comment the *projects* configs below
-projects: true
-
 # if you don't need "about" or "blog", comment them out below
 about: true
 #blog: false
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
 
 # do you want to show the "read time" of the posts?
 read-time: false
