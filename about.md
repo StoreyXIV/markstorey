@@ -4,37 +4,55 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Computer Game Development has been my focus for as long as I can remember seriously thinking about a career. From 2010-2015 I undertook a Masters Degree in Computer Games Development at Queen's University Belfast and graduated with first-class honours. During that time I also worked at Bluebear Technologies in Dublin (2013-2014) as a game developer and since finishing my degree, I have worked at Twistplay LTD since Januarary 2016. 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I am heavily interested in the games industry but also enjoy programming separately. I started programming in Lower 6th as a part of my Computing A Level, learning to program using Pascal and Visual Basic. Since then I've worked in C, C++, C#, Objective-C and Java. I love the sense of accomplishment gained from solving a problem and my real passion lies when that is combined with the creativity of games development.
 
-<h2>Skills</h2>
+Aside from work, I enjoy gaming, movies and television and socialising with friends. Some would say I have an unhealthy addition to Pro Wrestling, Disney and Dr Pepper.</p>
+
+<h2>University Overview</h2>
+
+<h3>First Year - 75 Average</h3>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Introduction to Multimedia II - 86</li>
+	<li>Programming Challenges - 83</li>
+	<li>Fundamentals of Programming - 82</li>
+	<li>Computer Architecture - 77</li>
+	<li>Games Design I - 67</li>
+	<li>Introduction to Multimedia I - 55</li>	
+</ul>
+
+<h3>Second Year - 71 Average</h3>
+
+<ul class="skill-list">
+	<li>Programming in C & C++ - 84</li>
+	<li>Tournaments In Computing - 81</li>
+	<li>Games Programming - 75</li>
+	<li>Software Engineering & Group Project - 73</li>
+	<li>Networks & Communications - 68</li>
+	<li>Professional Computing Practice - 67</li>
+	<li>Data Structures & Algorithms - 54</li>
+</ul>
+
+<h3>Third Year - 64 Average</h3>
+
+<ul class="skill-list">
+	<li>Real-Time Visualisation & Computer Graphics - 74</li>
+	<li>Agile & Component Based Development using .NET - 70</li>
+	<li>Artificial Intelligence - 60</li>
+	<li>Aspects of Game Engine Development - 62</li>
+	<li>Concurrent Programming - 56</li>
+</ul>
+
+<h3>Final Year - 72 Average</h3>
+
+<ul class="skill-list">
+	<li>Individual Research Project - 76</li>
+	<li>High Performance Computing - 76</li>
+	<li>Innovation & Entrepreneurship - 71</li>
+	<li>Advanced Software Engineering - 70</li>
+	<li>Algorithms: Analysis & Application - 66</li>
 </ul>
 
 <h2>Projects</h2>
