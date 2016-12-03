@@ -3,12 +3,17 @@ title: WorkExperience
 layout: page
 ---
 
+<p align = "center">This section shows any work experience I have, from retail to working as a game developer!</p>
+<br>
+
 <h2>Twistplay Ltd</h2>
 
-<p>Previous Work Experience.</p>
+<p align="center"><img src="/assets/images/twistplaylogo.png" alt="Twistplay Logo" align="middle"></p>
+
+<p align="center">
 <a href="https://itunes.apple.com/gb/app/agent-gumball-roguelike-spy/id1044318857?mt=8">Agent Gumball</a>
 <a href="http://store.steampowered.com/app/388960/">Torn Tales</a>, <a href="http://store.steampowered.com/app/388960/">Torn Tales Website</a>
-<a href="http://cleoslostidols.com/">Cleo's Lost Idols</a>
+<a href="http://cleoslostidols.com/">Cleo's Lost Idols</a></p>
 
 <br>
 <h2>Bluebear Technologies</h2>
@@ -19,7 +24,7 @@ layout: page
 <br>
 <p align="center"><img src="/assets/images/bluebeargames.png" alt="Bluebear Games" align="middle"></p>
 
-<p><a align="center" href="https://itunes.apple.com/gb/developer/bluebear-technologies-ltd./id522548950">Bluebear iOS Catalog</a></p>
+<p align="center"><a href="https://itunes.apple.com/gb/developer/bluebear-technologies-ltd./id522548950">Bluebear iOS Catalog</a></p>
 
 <br>
 <h2>Queen's University Belfast</h2>
