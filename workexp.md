@@ -2,8 +2,7 @@
 title: WorkExperience
 layout: page
 ---
-<h2 align = "center">Past Work</h2>
-<br>
+<h1 align = "center">Past Work</h1>
 <p align = "center">This section shows any work experience I have, from retail to working as a game developer!</p>
 <br>
 
