@@ -47,7 +47,7 @@ github: storeyxiv
 email: mstorey02@qub.ac.uk
 
 authors:
-    johndoe:
+    markstorey:
         name: Mark Storey
         bio: A MEng Computer Game Developer
         external-image: false
@@ -73,9 +73,10 @@ width: large
 about: true
 #blog: false
 workexp: true
+university: true
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # do you want to show the "read time" of the posts?
 read-time: false
