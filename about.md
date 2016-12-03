@@ -4,7 +4,7 @@ layout: page
 headerImage: true
 ---
 
-<img class="selfie" src="/assets/images/markimg.jpg" alt="Alt Text" width="50">
+<img align="center" src="/assets/images/markimg.jpg" alt="Alt Text" height="155" width="155">
 
 <p align="center">Computer Game Development has been my focus for as long as I can remember seriously thinking about a career. From 2010-2015 I undertook a Masters Degree in Computer Games Development at Queen's University Belfast and graduated with first-class honours. During that time I also worked at Bluebear Technologies in Dublin (2013-2014) as a game developer and since finishing my degree, I have worked at Twistplay LTD since Januarary 2016.</p>
 
@@ -12,8 +12,8 @@ headerImage: true
 
 Aside from work, I enjoy gaming, movies and television and socialising with friends. Some would say I have an unhealthy addition to Pro Wrestling, Disney and Dr Pepper.</p>
 
-<p></p>
-<p></p>
+<br>
+<br>
 
 <h2>University Overview</h2>
 
@@ -60,8 +60,8 @@ Aside from work, I enjoy gaming, movies and television and socialising with frie
 	<li>Algorithms: Analysis & Application - 66</li>
 </ul>
 
-<p></p>
-<p></p>
+<br>
+<br>
 
 <h2>Achievements</h2>
 
