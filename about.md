@@ -2,13 +2,15 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Computer Game Development has been my focus for as long as I can remember seriously thinking about a career. From 2010-2015 I undertook a Masters Degree in Computer Games Development at Queen's University Belfast and graduated with first-class honours. During that time I also worked at Bluebear Technologies in Dublin (2013-2014) as a game developer and since finishing my degree, I have worked at Twistplay LTD since Januarary 2016.</p>
 
 <p>I am heavily interested in the games industry but also enjoy programming separately. I started programming in Lower 6th as a part of my Computing A Level, learning to program using Pascal and Visual Basic. Since then I've worked in C, C++, C#, Objective-C and Java. I love the sense of accomplishment gained from solving a problem and my real passion lies when that is combined with the creativity of games development.
 
 Aside from work, I enjoy gaming, movies and television and socialising with friends. Some would say I have an unhealthy addition to Pro Wrestling, Disney and Dr Pepper.</p>
+
+</br>
+</br>
 
 <h2>University Overview</h2>
 
@@ -55,10 +57,13 @@ Aside from work, I enjoy gaming, movies and television and socialising with frie
 	<li>Algorithms: Analysis & Application - 66</li>
 </ul>
 
-<h2>Projects</h2>
+</br>
+</br>
+
+<h2>Achievements</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>XNA Challenge Colleges Cup - Games Fleadh 2012</li>
+	<li>Best Original Innovation In Gaming - Game Fleadh 2013</li>
+	<li>Ireland Regional Finals	- Microsoft Imagine Cup 2012</li>
 </ul>
