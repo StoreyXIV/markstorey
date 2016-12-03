@@ -3,7 +3,8 @@ title: WorkExperience
 layout: page
 ---
 
-<p align = "center">This section shows any work experience I have, from retail to working as a game developer!</p>
+<p align = "center"> <h2>Past Work</h2><br>
+This section shows any work experience I have, from retail to working as a game developer!</p>
 <br>
 
 <h2>Twistplay Ltd</h2>
