@@ -3,14 +3,16 @@ title: About
 layout: page
 ---
 
+<img class="image" src="{{ site.url }}/markimg.jpg" alt="Alt Text">
+
 <p>Computer Game Development has been my focus for as long as I can remember seriously thinking about a career. From 2010-2015 I undertook a Masters Degree in Computer Games Development at Queen's University Belfast and graduated with first-class honours. During that time I also worked at Bluebear Technologies in Dublin (2013-2014) as a game developer and since finishing my degree, I have worked at Twistplay LTD since Januarary 2016.</p>
 
 <p>I am heavily interested in the games industry but also enjoy programming separately. I started programming in Lower 6th as a part of my Computing A Level, learning to program using Pascal and Visual Basic. Since then I've worked in C, C++, C#, Objective-C and Java. I love the sense of accomplishment gained from solving a problem and my real passion lies when that is combined with the creativity of games development.
 
 Aside from work, I enjoy gaming, movies and television and socialising with friends. Some would say I have an unhealthy addition to Pro Wrestling, Disney and Dr Pepper.</p>
 
-</br>
-</br>
+<p></p>
+<p></p>
 
 <h2>University Overview</h2>
 
@@ -57,8 +59,8 @@ Aside from work, I enjoy gaming, movies and television and socialising with frie
 	<li>Algorithms: Analysis & Application - 66</li>
 </ul>
 
-</br>
-</br>
+<p></p>
+<p></p>
 
 <h2>Achievements</h2>
 
