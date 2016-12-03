@@ -1,5 +1,5 @@
 ---
-title: university
+title: University
 layout: page
 ---
 <p>University.</p>
