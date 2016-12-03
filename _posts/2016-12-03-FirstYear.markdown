@@ -1,6 +1,6 @@
 ---
 title: "First Year"
-layout: page
+layout: post
 date: 2016-12-03
 headerImage: true
 projects: true
@@ -10,5 +10,3 @@ externalLink: false
 ---
 
 First Year of Uni
-
----
