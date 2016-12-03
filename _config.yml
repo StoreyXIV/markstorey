@@ -1,6 +1,6 @@
 # main text of home
 name: Mark Storey
-bio: Website Under Construction
+bio: Gameplay Programmer seeking work in Guildford/London
 
 # twitter summary info
 description: A website for Mark Storey
@@ -8,7 +8,7 @@ description: A website for Mark Storey
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/markimg.jpg
+picture: assets/images/WebsiteLogo.png
 
 base_url: ""
 url: http://markstorey.co.uk
@@ -72,6 +72,7 @@ width: normal
 # if you don't need "about" or "blog", comment them out below
 about: true
 #blog: false
+workexp: true
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
