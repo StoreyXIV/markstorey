@@ -2,6 +2,7 @@
 title: About
 layout: page
 image: /assets/images/markimg.jpg
+headerImage: true
 ---
 
 
