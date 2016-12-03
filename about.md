@@ -4,7 +4,7 @@ layout: page
 headerImage: true
 ---
 
-<img src="/assets/images/markimg.jpg" alt="Alt Text" width="100">
+<img src="/assets/images/markimg.jpg" alt="Alt Text" width="50">
 
 <p align="center">Computer Game Development has been my focus for as long as I can remember seriously thinking about a career. From 2010-2015 I undertook a Masters Degree in Computer Games Development at Queen's University Belfast and graduated with first-class honours. During that time I also worked at Bluebear Technologies in Dublin (2013-2014) as a game developer and since finishing my degree, I have worked at Twistplay LTD since Januarary 2016.</p>
 
