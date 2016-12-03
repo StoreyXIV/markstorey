@@ -8,7 +8,7 @@ description: A website for Mark Storey
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/WebsiteLogo.png
+picture: assets/images/Logo.png
 
 base_url: ""
 url: http://markstorey.co.uk
