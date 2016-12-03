@@ -12,9 +12,9 @@ layout: page
 
 <p align="center">As a game developer for Twistplay I worked on 3 games: Agent Gumball (Turn-based RPG - iOS/Android), Torn Tales (RPG - PC) and Cleo’s Lost Idols (Strategy Platformer - PC). All 3 games were made using Unity and C#. Within Twistplay I was able to express my creativity and put forward ideas and implement them into each game. </p>
 
-<p align="center"><img src="/assets/images/agentgumballlogo.png" alt="Agent Gumball Logo" align="left"><img src="/assets/images/torntaleslogo.jpg" alt="Torn Tales Logo" align="middle"><img src="/assets/images/clilogo.png" alt="Cleo's Lost Idols Logo" align="right">
+<p align="center"><img src="/assets/images/twistplaygames.png" alt="Twistplay Games" align="middle"></p>
 
-<a href="https://itunes.apple.com/gb/app/agent-gumball-roguelike-spy/id1044318857?mt=8">Agent Gumball</a>
+<p align="center"><a href="https://itunes.apple.com/gb/app/agent-gumball-roguelike-spy/id1044318857?mt=8">Agent Gumball</a>
 <a href="http://store.steampowered.com/app/388960/">Torn Tales</a>, <a href="http://store.steampowered.com/app/388960/">Torn Tales Website</a>
 <a href="http://cleoslostidols.com/">Cleo's Lost Idols</a></p>
 
