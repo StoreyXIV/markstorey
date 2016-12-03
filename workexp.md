@@ -8,12 +8,19 @@ layout: page
 
 <h2>Twistplay Ltd</h2>
 
-<p align="center"><img src="/assets/images/twistplaylogo.png" alt="Twistplay Logo" align="middle"></p>
+<p align="center"><img src="/assets/images/twistplaylogo.jpg" alt="Twistplay Logo" align="middle"></p>
 
-<p align="center">
+<p align="center">As a game developer for Twistplay I worked on 3 games: Agent Gumball (Turn-based RPG - iOS/Android), Torn Tales (RPG - PC) and Cleo’s Lost Idols (Strategy Platformer - PC). All 3 games were made using Unity and C#. Within Twistplay I was able to express my creativity and put forward ideas and implement them into each game. </p>
+
+<p align="center"><img src="/assets/images/agentgumballlogo.png" alt="Agent Gumball Logo" align="left"><img src="/assets/images/torntaleslogo.jpg" alt="Torn Tales Logo" align="middle"><img src="/assets/images/clilogo.png" alt="Cleo's Lost Idols Logo" align="right">
+
 <a href="https://itunes.apple.com/gb/app/agent-gumball-roguelike-spy/id1044318857?mt=8">Agent Gumball</a>
 <a href="http://store.steampowered.com/app/388960/">Torn Tales</a>, <a href="http://store.steampowered.com/app/388960/">Torn Tales Website</a>
 <a href="http://cleoslostidols.com/">Cleo's Lost Idols</a></p>
+
+<p align="center">Agent Gumball was a great starting project, allowing me to get acclimated with Unity, as well as experiencing working on a contract for another company. Working with Headfizz and Cartoon Network to create the game was a fun and interesting challenge. My main tasks were to fix the last remaining bugs with the game, and do an overhaul on the UI within the game. In Torn Tales I had the chance to spend more time with the project and was able to implement the code for different player skills and effects of pieces of loot. I was also given the opportunity to design and implement multiple boss fights, as well as exploring Unity’s audio system, get to grips with Unity’s particle system, and help with general bug fixing. Joining the Cleo’s Lost Idols team to help finish the game, I designed multiple stages and puzzles found within the other stages. I also aided with general implementation/improvement of code, as well as bug fixing and testing. I was also tasked with creating content for the game’s social media channels which was another interesting and creative outlet for me.</p>
+
+<p align="center">Overall, working at Twistplay gave me the freedom to express my creativity in a number of ways and allowed me to gain experience as a programmer, unity developer, game designer, level designer, graphics designer and social media content creator.</p></p>
 
 <br>
 <h2>Bluebear Technologies</h2>
